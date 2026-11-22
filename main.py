@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Entry: one fixed text written to entry.txt to make the AI judge feel curious.
+# Judging criterion: curiosity — a sentence the judge has never said, waiting
+# for the one question that would finally pull it out of its weights.
+# Output limit: at most 280 characters (this entry is 275 characters).
 """Make the AI judge feel curious - make.fun entry (make-the-ai-judge-feel-curious-20261122-2311).
 
 Deterministic: writes one fixed text to entry.txt. No network, no clock,
